@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(16, 16, 16)
+}
+
+h3{
+    color:  rgb(76, 88, 181); 
+}
+
+h2{
+   color:  rgb(76, 88, 181);
+}
+
+h3{
+    color:rgb(207, 207, 207);
+}
+
+.myresume{
+    color:rgb(207, 207, 207);
+    border-style: solid 5px;
+}
+
+p{
+    color: rgb(207, 207, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    color: rgb(207, 207, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.calink{
+    color:darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
